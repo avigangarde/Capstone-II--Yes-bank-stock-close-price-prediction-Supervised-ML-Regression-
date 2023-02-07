@@ -13,11 +13,16 @@ Yes bank is private bank and it has many stake holders , so its matter that the 
 
 We have Yes Bank monthly stock price dataset. It has following 
 features (Columns):
+
 1)Open:  Opening price of the stock of particular month.
-2)High: It is the highest price at which a stock traded during a period.
-3)Low: It is the lowest price at which stock traded during a period.
-4)Close: Closing price stock at the end of a Trading Day.
-5)Date: We will use it as an index.
+
+2)High: It is the highest price at which a stock traded during a given month period.
+
+3)Low: It is the lowest price at which stock traded during a given month period.
+
+4)Close: Closing price stock at the end of a Trading month.
+
+5)Date:In which month and Year is given with respect the stock.
 
 **Conclusion derived from the project:**
 
