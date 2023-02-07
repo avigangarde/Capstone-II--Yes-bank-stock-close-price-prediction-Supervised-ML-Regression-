@@ -1,12 +1,16 @@
 # Capstone-II--Yes-bank-stock-close-price-prediction-Supervised-ML-Regression-
 
 
-**Problem Statement **-Yes Bank is a well-known bank in the Indian financial domain. Since 2018, it has been in the news because of the fraud case involving Rana Kapoor. Owing to this fact, it was interesting to see how that impacted the stock prices of the company and whether Time series models or any other predictive models can do justice to such situations. This dataset has monthly stock prices of the bank since its inception and includes closing, starting, highest, and lowest stock prices of every month. The main objective is to predict the stock’s closing price of the month.
+**Problem Statement**
+
+Yes Bank is a well-known bank in the Indian financial domain. Since 2018, it has been in the news because of the fraud case involving Rana Kapoor. Owing to this fact, it was interesting to see how that impacted the stock prices of the company and whether Time series models or any other predictive models can do justice to such situations. This dataset has monthly stock prices of the bank since its inception and includes closing, starting, highest, and lowest stock prices of every month. The main objective is to predict the stock’s closing price of the month.
 
 **Business objective**:
+
 Yes bank is private bank and it has many stake holders , so its matter that the stocks they own and price of their stocks . It’s very necessary to them to know the stock they own and price of the stock. So they could make decisions about the selling  or keeping then stock and know how much the business is get affected by the inflation of  the stock price.
 
 **Inforamtion About the data:**
+
 We have Yes Bank monthly stock price dataset. It has following 
 features (Columns):
 1)Open:  Opening price of the stock of particular month.
@@ -15,7 +19,7 @@ features (Columns):
 4)Close: Closing price stock at the end of a Trading Day.
 5)Date: We will use it as an index.
 
-**conclusioon derived from the project:**
+**Conclusion derived from the project:**
 
 1] From the given data , which have less no po data points and few columns all the given features have linear relation between them.
 
